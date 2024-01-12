@@ -89,15 +89,15 @@ public:
     }
 };
 
-int main()
-{
-    ArrayHashMap map = ArrayHashMap();
-    map.put(1, "z");
-    map.put(2, "l");
-    map.put(3, "l");
-    cout << "哈希表：" << endl;
-    cout << "num->name" << endl;
-    map.print();
-    map.remove(2);
-    map.print();
-}
+// int main()
+// {
+//     ArrayHashMap map = ArrayHashMap();
+//     map.put(1, "z");
+//     map.put(2, "l");
+//     map.put(3, "l");
+//     cout << "哈希表：" << endl;
+//     cout << "num->name" << endl;
+//     map.print();
+//     map.remove(2);
+//     map.print();
+// }
