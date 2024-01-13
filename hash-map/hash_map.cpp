@@ -1,4 +1,4 @@
-#include "common.hpp"
+#include "../include/common.hpp"
 
 template <typename key, typename value>
 void printHashMap(unordered_map<key, value> map);
