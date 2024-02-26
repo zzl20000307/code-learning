@@ -13,9 +13,8 @@ int main()
 
     a = 10;
     b = 60;
-
+    
     // 调用Lambda函数
     lambda_by_value(); // 输出 5、60
-
     return 0;
 }
